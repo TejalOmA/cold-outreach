@@ -22,7 +22,7 @@ For each founder in your CSV, this app:
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cold-outreach.git
+git clone https://github.com/tejaloma/cold-outreach.git
 cd cold-outreach
 pip install -r requirements.txt
 ```
