@@ -51,7 +51,7 @@ load_dotenv()
 # ==============================================================
 
 MODEL_CANDIDATES = [
-    "gemma-3-27b-it",           # 14,400 RPD — massive headroom
+#    "gemma-3-27b-it",           # 14,400 RPD — massive headroom
     "gemini-3.1-flash-lite",    # 500 RPD backup
     "gemma-3-12b-it",           # 14,400 RPD if 27B has issues
     "gemini-2.5-flash",         # 20 RPD last resort
